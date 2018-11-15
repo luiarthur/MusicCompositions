@@ -136,6 +136,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Harmony>
+          <root>14</root>
+          <name>Maj7</name>
+          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -150,6 +154,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>13</root>
+          <name>7</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
